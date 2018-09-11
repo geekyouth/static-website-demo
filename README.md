@@ -1,6 +1,19 @@
-[➡️ www.webstack.cc](https://webstack.cc) - 网址导航
-===
-QQ群交流：304584722
+# 项目来源：
+
+https://github.com/WebStackPage/WebStackPage.github.io
+
+基于原来的项目作了部分修改，后期继续优化。
+
+# 如何部署？
+
+**1-fork 这个项目到你的github 仓库；**
+
+**2-清空cname 文件内容；**
+
+**3-开启github pages 服务，预览网站**
+
+---
+
 
 这是一个纯静态的网址导航网站，内容均由[viggo](http://viggoz.com)收集并整理。项目基于bootstrap前端框架开发。
 
@@ -25,6 +38,8 @@ QQ群交流：304584722
 ---
 JUST DOWNLOAD AND DO WHAT THE FUCK YOU WANT TO.
 
+
+
 License
 ---
 Copyright © 2017-2018 **[webstack.cc](https://webstack.cc)**  Released under the **MIT License**.
@@ -38,5 +53,3 @@ Screenshot 📷
 ![](http://7xnb6x.com1.z0.glb.clouddn.com/webstack-04-infomation.png)
 ![](http://7xnb6x.com1.z0.glb.clouddn.com/webstack-05-production.png)
 ![](http://7xnb6x.com1.z0.glb.clouddn.com/webstack-06-production2.png)
-
-
